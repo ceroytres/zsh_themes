@@ -14,8 +14,9 @@ Non-serious zsh themes for non-serious people
 ![](imgs/panic.png)
 
 
+
+
 ## Install
 ```
 ./install.sh
 ```
-
