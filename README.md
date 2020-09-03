@@ -2,6 +2,11 @@
 
 Non-serious zsh themes for non-serious people
 
+## Requirements
+
+* [oh-my-zsh](https://ohmyz.sh/)
+* rsync
+
 ## Themes
 
 #### Cat Fart
