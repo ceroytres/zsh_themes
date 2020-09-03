@@ -7,6 +7,11 @@ Non-serious zsh themes for non-serious people
 * [oh-my-zsh](https://ohmyz.sh/)
 * rsync
 
+## Install
+```
+./install.sh
+```
+
 ## Themes
 
 #### Cat Fart
@@ -18,10 +23,5 @@ Non-serious zsh themes for non-serious people
 #### Panic 
 ![](imgs/panic.png)
 
-
-
-
-## Install
-```
-./install.sh
-```
+#### Clown
+![](imgs/clown.png)
