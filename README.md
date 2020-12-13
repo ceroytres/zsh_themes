@@ -7,6 +7,9 @@ Non-serious zsh themes for non-serious people
 * [oh-my-zsh](https://ohmyz.sh/)
 * rsync
 
+Tested on MacOS 10.15
+
+
 ## Install
 ```
 ./install.sh
